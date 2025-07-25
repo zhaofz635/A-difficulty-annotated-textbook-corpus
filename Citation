@@ -1,0 +1,7 @@
+
+@dataset{opentextcs_2023,
+  title = {OpenTextCS: A Difficulty-Annotated Computer Science Textbook Dataset},
+  author = {F.ZHAO},
+  year = {2025},
+  url = {https://github.com/yourusername/opentextcs-dataset}
+}
